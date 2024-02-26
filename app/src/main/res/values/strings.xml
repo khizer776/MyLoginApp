@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="app_title">Welcome</string>
+    <string name="String_google">Login with Google</string>
+    <string name="String_fb">Login with Facebook</string>
+    <string name="String_pwd">Enter Password</string>
+    <string name="string_user">Enter Name</string>
+    <string name="String_forgotpwd">Forgot Password</string>
+    <string name="String_signup">Sign Up\!</string>
+    <string name="String_noAccount">Do\'nt have an account?</string>
+    <string name="btn_login">Login</string>
+    <string name="String_SubTitle">Warehouse Dashboard </string>
+
+</resources>
